@@ -2,3 +2,10 @@
   transform: scale(1.1);
   /* overflow: hidden; */
 }
+.btn-custom1 {
+  background-color: #fcddec;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
