@@ -8,3 +8,12 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
+.position-relative {
+  position: relative;
+}
+.position-absolute {
+  position: absolute;
+  top: 60px;
+  right: -25px;
+}
