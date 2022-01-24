@@ -1,8 +1,8 @@
 .card-transform {
   transform: scale(1.05) translateY(-27px);
 }
-.btn-custom1 {
-  background-color: lightseagreen;
+.btn-custom {
+  background-color: rgb(221, 225, 230);
 }
 
 body {
