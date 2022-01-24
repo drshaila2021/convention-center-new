@@ -1,3 +1,4 @@
-.card-hightlight {
-  tranform: scale(1.1);
+.card-transform {
+  transform: scale(1.1);
+  /* overflow: hidden; */
 }
