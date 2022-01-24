@@ -1,6 +1,5 @@
 .card-transform {
-  transform: scale(1.1);
-  /* overflow: hidden; */
+  transform: scale(1.05) translateY(-35px);
 }
 .btn-custom1 {
   background-color: #fcddec;
